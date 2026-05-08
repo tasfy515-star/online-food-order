@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279504028526",
+    "project_id": "my-food-app-294fd",
+    "storage_bucket": "my-food-app-294fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279504028526:android:a8702e513b418f0ed7777f",
+        "android_client_info": {
+          "package_name": "com.example.smart_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLeYWn-ia3o1sGHlaNhI3x9FcMC2F8GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
